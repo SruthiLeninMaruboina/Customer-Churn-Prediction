@@ -92,6 +92,8 @@ This project builds a machine learning pipeline to predict customer churn using 
 ---
 
 ## 📂 Project Structure
+---
+
 ├── README.md
 ├── customer_churn.csv
 ├── churn_prediction.ipynb
